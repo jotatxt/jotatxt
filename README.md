@@ -1,5 +1,6 @@
 # 💫 About Me:
 beginner dev  — learning & building useful stuff with code. Exploring web dev, version control & open source.
+I'm a Indie Hacker
 
 
 ## 🌐 Socials:
